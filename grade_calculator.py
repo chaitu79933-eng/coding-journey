@@ -19,11 +19,8 @@ elif average >= 60:
     grade = "D"
 else:
     grade = "F"
-print()
-print("student:", name)
+print()    
+print("student name:", name)
 print("total marks:", total)
 print("average marks:", average)
-print("Grade:", grade)
-
-
-
+print("grade:", grade)
